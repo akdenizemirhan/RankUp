@@ -178,7 +178,7 @@ Set up image generation (fal.ai), WordPress, Ghost, or webhook integrations thro
 
 RankUp is completely free. All 26 tools, unlimited access, no credit card required.
 
-Get started at **[rankup.tools](https://rankup.tools)**.
+RankUp your SEO at **[rankup.tools](https://rankup.tools)**
 
 ---
 
