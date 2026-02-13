@@ -174,19 +174,11 @@ Set up image generation (fal.ai), WordPress, Ghost, or webhook integrations thro
 
 ---
 
-## Free Plan
+## Pricing
 
-All features are free during the beta period.
+RankUp is completely free. All 26 tools, unlimited access, no credit card required.
 
-| Feature | Included |
-|---------|----------|
-| Keyword research | 100/mo |
-| AI article writing | 20/mo |
-| PageSpeed analysis | 50/mo |
-| Image generation | BYO fal.ai key |
-| Rate limit | 30/min |
-
-Start free at **[rankup.tools](https://rankup.tools)**.
+Get started at **[rankup.tools](https://rankup.tools)**.
 
 ---
 
